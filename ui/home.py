@@ -42,7 +42,6 @@ div[data-testid="stVerticalBlock"] > div { gap: 0.3rem; }
     with center_col:
         st.markdown("### Election Map")
 
-        view_mode = st.toggle("Intelligence View", value=False)
 
         status = "✅ Political View Enabled" if not view_mode else "🔍 Intelligence View Enabled"
         st.markdown(f"🟧 BJP &nbsp; 🟩 AITC &nbsp; ⬜ Others &nbsp;&nbsp;|&nbsp;&nbsp; {status}")
@@ -60,8 +59,6 @@ div[data-testid="stVerticalBlock"] > div { gap: 0.3rem; }
             else: fill_color = "lightgray"
             return {"fillColor": fill_color, "color": "black", "weight": 0.5, "fillOpacity": 0.7}
 
-        def intelligence_style(feature):
-            return {"fillColor": "#000000", "color": "#444444", "weight": 0.7, "fillOpacity": 0.25}
 
         def highlight_function(feature):
             party = feature["properties"].get("Winner_Party_2026", "")
@@ -75,22 +72,6 @@ div[data-testid="stVerticalBlock"] > div { gap: 0.3rem; }
             aliases=["Constituency:", "Winner:"],
             sticky=False, labels=True
         )
-
-        intelligence_tooltip = GeoJsonTooltip(
-            fields=["Constituency_Name", "District", "Region", "Winner_Party_2026",
-                    "Vote_Swing", "Minority_Pct", "Women_Voter_Pct", "SIR_Risk"],
-            aliases=["Constituency:", "District:", "Region:", "Winner:",
-                     "Vote Swing:", "Minority %", "Women %", "Risk:"],
-            sticky=False, labels=True
-        )
-
-        if view_mode:
-            folium.GeoJson(gdf, name="Intelligence View", style_function=intelligence_style,
-                           highlight_function=highlight_function, tooltip=intelligence_tooltip).add_to(m)
-        else:
-            folium.GeoJson(gdf, name="Political View", style_function=style_function,
-                           tooltip=political_tooltip).add_to(m)
-
         map_data = st_folium(
             m, width=None, height=500,
             returned_objects=["last_active_drawing", "last_object_clicked_tooltip"]
