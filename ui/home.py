@@ -8,6 +8,12 @@ from folium.features import GeoJsonTooltip
 
 
 def render_home(gdf):
+    st.markdown("""<style>
+.block-container { padding-top: 1rem; padding-bottom: 0rem; }
+[data-testid="stMetricValue"] { font-size: 1.4rem; }
+[data-testid="stMetric"] { padding: 0.2rem 0; }
+div[data-testid="stVerticalBlock"] > div { gap: 0.3rem; }
+</style>""", unsafe_allow_html=True)
 
     bjp_stats = get_party_summary(gdf, "BJP")
     aitc_stats = get_party_summary(gdf, "AITC")
