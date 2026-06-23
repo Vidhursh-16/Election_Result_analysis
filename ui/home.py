@@ -42,9 +42,7 @@ div[data-testid="stVerticalBlock"] > div { gap: 0.3rem; }
     with center_col:
         st.markdown("### Election Map")
 
-
-        status = "✅ Political View Enabled" if not view_mode else "🔍 Intelligence View Enabled"
-        st.markdown(f"🟧 BJP &nbsp; 🟩 AITC &nbsp; ⬜ Others &nbsp;&nbsp;|&nbsp;&nbsp; {status}")
+        st.markdown("🟧 BJP &nbsp; 🟩 AITC &nbsp; ⬜ Others")
 
         m = folium.Map(location=[23.5, 87.5], zoom_start=7, tiles="CartoDB positron")
         m.fit_bounds([
@@ -60,24 +58,21 @@ div[data-testid="stVerticalBlock"] > div { gap: 0.3rem; }
             return {"fillColor": fill_color, "color": "black", "weight": 0.5, "fillOpacity": 0.7}
 
 
-        def highlight_function(feature):
-            party = feature["properties"].get("Winner_Party_2026", "")
-            if party == "BJP": color = "orange"
-            elif party == "AITC": color = "green"
-            else: color = "lightgray"
-            return {"fillColor": color, "color": color, "weight": 3, "fillOpacity": 0.9}
-
         political_tooltip = GeoJsonTooltip(
             fields=["Constituency_Name", "Winner_Party_2026"],
             aliases=["Constituency:", "Winner:"],
             sticky=False, labels=True
         )
+        folium.GeoJson(
+            gdf,
+            name="Political View",
+            style_function=style_function,
+            tooltip=political_tooltip
+            ).add_to(m)
         map_data = st_folium(
             m, width=None, height=500,
-            returned_objects=["last_active_drawing", "last_object_clicked_tooltip"]
+            returned_objects=["last_active_drawing"]
         )
-
-        st.caption("Click on a constituency for details • Toggle for Intelligence View")
 
     with right_col:
         party_panel(
