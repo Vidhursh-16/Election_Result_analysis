@@ -12,6 +12,6 @@ if state == "West Bengal":
     render_home(gdf)
 else:
     gdf = st.cache_data(lambda: __import__('geopandas').read_file(
-        r"C:\Users\mgvin\Desktop\wb-analysis\data\spatial\tn_master.geojson"
+    "data/spatial/tn_master.geojson"
     ))()
     render_home_tn(gdf)
