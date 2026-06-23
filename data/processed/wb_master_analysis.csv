@@ -1,0 +1,295 @@
+Constituency_No,Constituency_Name,District,Winner_Candidate_2021,Winner_Party_2021,Winner_Votes_2021,Winner_Pct_2021,Margin_2021,Winner_Candidate_2026,Winner_Party_2026,Winner_Votes_2026,Winner_Pct_2026,Margin_2026,Seat_Status,Party_Change,Vote_Swing,Margin_Change
+1,Mekliganj,Cooch Behar,Adhikary Paresh Chandra,AITC,99338,49.98,14685,Dadhiram Ray,BJP,119109,54.42,29584,Flipped,AITC → BJP,4.44,14899
+2,Mathabhanga,Cooch Behar,Sushil Barman,BJP,113249,52.87,26134,Nisith Pramanik,BJP,143340,59.27,57090,Retained,BJP → BJP,6.4,30956
+3,Coochbehar Uttar,Cooch Behar,Sukumar Roy,BJP,120483,49.4,14615,Sukumar Roy,BJP,155327,61.11,70384,Retained,BJP → BJP,11.71,55769
+4,Coochbehar Dakshin,Cooch Behar,Nikhil Ranjan Dey,BJP,91560,46.83,4931,Rathindra Bose,BJP,108482,52.75,22747,Retained,BJP → BJP,5.92,17816
+5,Sitalkuchi,Cooch Behar,Baren Chandra Barman,BJP,124955,50.8,17815,Sabitri Barman,BJP,144367,51.59,25278,Retained,BJP → BJP,0.79,7463
+6,Sitai,Cooch Behar,Jagadish Chandra Barma Basunia,AITC,117908,49.42,10112,Sangita Roy,AITC,128188,48.31,2721,Retained,AITC → AITC,-1.11,-7391
+7,Dinhata,Cooch Behar,Nisith Pramanik,BJP,116035,47.6,57,Ajay Ray,BJP,138255,51.6,17447,Retained,BJP → BJP,4.0,17390
+8,Natabari,Cooch Behar,Mihir Goswami,BJP,111743,51.45,23440,Girija Shankar Ray,BJP,126911,54.53,34613,Retained,BJP → BJP,3.08,11173
+9,Tufanganj,Cooch Behar,Malati Rava Roy,BJP,114503,54.69,31198,Malati Rava Roy,BJP,122525,53.08,26457,Retained,BJP → BJP,-1.61,-4741
+10,Kumargram,Alipurduar,Manoj Kumar Oraon,BJP,111974,48.16,11001,Manoj Kumar Oraon,BJP,143044,57.95,52877,Retained,BJP → BJP,9.79,41876
+11,Kalchini,Alipurduar,Bishal Lama,BJP,103104,52.65,28576,Bishal Lama,BJP,114759,56.64,37843,Retained,BJP → BJP,3.99,9267
+12,Alipurduars,Alipurduar,Suman Kanjilal,BJP,107333,48.19,16007,Paritosh Das,BJP,143242,61.62,70420,Retained,BJP → BJP,13.43,54413
+13,Falakata,Alipurduar,Dipak Barman,BJP,102993,46.71,3990,Dipak Barman,BJP,134370,56.95,45999,Retained,BJP → BJP,10.24,42009
+14,Madarihat,Alipurduar,Manoj Tigga,BJP,90718,54.35,29685,Laxuman Limbu,BJP,102488,57.98,40910,Retained,BJP → BJP,3.63,11225
+15,Dhupguri,Jalpaiguri,Bishnu Pada Ray,BJP,104688,45.65,4355,Naresh Roy,BJP,134798,54.25,38550,Retained,BJP → BJP,8.6,34195
+16,Maynaguri,Jalpaiguri,Kaushik Roy,BJP,115306,48.84,11911,Dalim Chandra Roy,BJP,147403,58.62,56503,Retained,BJP → BJP,9.78,44592
+17,Jalpaiguri,Jalpaiguri,Dr. Pradip Kumar Barma,AITC,95668,42.34,941,Ananta Deb Adhikary,BJP,142987,60.11,68805,Flipped,AITC → BJP,17.77,67864
+18,Rajganj,Jalpaiguri,Khageswar Roy,AITC,104641,48.5,15773,Dinesh Sarkar,BJP,114657,51.1,21477,Flipped,AITC → BJP,2.6,5704
+19,Dabgram-Fulbari,Jalpaiguri,Sikha Chatterjee,BJP,129088,49.85,27593,Sikha Chatterjee,BJP,166300,66.02,97715,Retained,BJP → BJP,16.17,70122
+20,Mal,Jalpaiguri,Bulu Chik Baraik,AITC,99086,46.46,5465,Sukra Munda,BJP,112095,49.94,15492,Flipped,AITC → BJP,3.48,10027
+21,Nagrakata,Jalpaiguri,Puna Bhengra,BJP,94722,49.55,23475,Puna Bhengra,BJP,103478,50.73,25858,Retained,BJP → BJP,1.18,2383
+22,Kalimpong,Kalimpong,Ruden Sada Lepcha,IND,58206,37.59,3870,Bharat Kumar Chetri,BJP,84290,49.74,21464,Flipped,IND → BJP,12.15,17594
+23,Darjeeling,Darjeeling,Neeraj Tamang Zimba,BJP,68907,40.88,21276,Noman Rai,BJP,62076,35.72,6057,Retained,BJP → BJP,-5.16,-15219
+24,Kurseong,Darjeeling,Bishnu Prasad Sharma,BJP,73475,41.86,15515,Sonam Lama,BJP,74878,41.18,17007,Retained,BJP → BJP,-0.68,1492
+25,Matigara-Naxalbari,Darjeeling,Anandamay Barman,BJP,139785,58.1,70848,Anandamoy Barman,BJP,166905,66.5,104265,Retained,BJP → BJP,8.4,33417
+26,Siliguri,Darjeeling,Sankar Ghosh,BJP,89370,50.03,35586,Shankar Ghosh,BJP,120760,65.78,73192,Retained,BJP → BJP,15.75,37606
+27,Phansidewa,Darjeeling,Durga Murmu,BJP,105651,50.89,27711,Durga Murmu,BJP,118241,56.92,45263,Retained,BJP → BJP,6.03,17552
+28,Chopra,Uttar Dinajpur,Hamidul Rahaman,AITC,124923,61.2,64905,Hamidul Rahaman,AITC,120986,57.3,69124,Retained,AITC → AITC,-3.9,4219
+29,Islampur,Uttar Dinajpur,Abdul Karim Chowdhary,AITC,100131,58.91,37440,Kanaia Lal Agarwal,AITC,108117,58.14,40063,Retained,AITC → AITC,-0.77,2623
+30,Goalpokhar,Uttar Dinajpur,Md. Ghulam Rabbani,AITC,105649,65.4,73514,Md. Ghulam Rabbani,AITC,122105,66.66,83790,Retained,AITC → AITC,1.26,10276
+31,Chakulia,Uttar Dinajpur,Azad Minhajul Arfin,AITC,86311,49.78,33837,Minhajul Arfin Azad,AITC,90277,45.34,28011,Retained,AITC → AITC,-4.44,-5826
+32,Karandighi,Uttar Dinajpur,Goutam Paul,AITC,116594,54.7,36626,Biraj Biswas,BJP,96260,43.76,19869,Flipped,AITC → BJP,-10.94,-16757
+33,Hemtabad,Uttar Dinajpur,Satyajit Barman,AITC,116425,52.14,27215,Haripada Barman,BJP,115529,48.26,12361,Flipped,AITC → BJP,-3.88,-14854
+34,Kaliaganj,Uttar Dinajpur,Soumen Roy,BJP,116768,48.71,21820,Utpal Brahmacharo,BJP,158349,61.32,76425,Retained,BJP → BJP,12.61,54605
+35,Raiganj,Uttar Dinajpur,Krishna Kalyani,BJP,79775,49.44,20748,Koushik Chowdhury,BJP,105561,63.69,58641,Retained,BJP → BJP,14.25,37893
+36,Itahar,Uttar Dinajpur,Mosaraf Hussen,AITC,114645,59.1,43975,Mosaraf Hussen,AITC,98172,48.09,27878,Retained,AITC → AITC,-11.01,-16097
+37,Kushmandi,Dakshin Dinajpur,Rekha Roy,AITC,89968,48.88,12584,Tapas Chandra Roy,BJP,97437,48.83,9063,Flipped,AITC → BJP,-0.05,-3521
+38,Kumarganj,Dakshin Dinajpur,Toraf Hossain Mandal,AITC,89763,52.52,29367,Toraf Hossain Mandal,AITC,82791,47.62,6685,Retained,AITC → AITC,-4.9,-22682
+39,Balurghat,Dakshin Dinajpur,Ashok Kumar Lahiri,BJP,72129,47.42,13436,Bidyut Kumar Roy,BJP,95697,60.45,47576,Retained,BJP → BJP,13.03,34140
+40,Tapan,Dakshin Dinajpur,Budhrai Tudu,BJP,84381,45.29,1650,Budhrai Tudu,BJP,105780,56.66,36987,Retained,BJP → BJP,11.37,35337
+41,Gangarampur,Dakshin Dinajpur,Satyendra Nath Ray,BJP,88724,46.82,4592,Satyendra Nath Roy,BJP,105083,54.5,28339,Retained,BJP → BJP,7.68,23747
+42,Harirampur,Dakshin Dinajpur,Biplab Mitra,AITC,96131,51.23,22672,Biplab Mitra,AITC,93098,45.62,1986,Retained,AITC → AITC,-5.61,-20686
+43,Habibpur,Malda,Joyel Murmu,BJP,94075,47.52,19517,Joyel Murmu,BJP,142062,62.41,78188,Retained,BJP → BJP,14.89,58671
+44,Gazole,Malda,Chinmoy Deb Barman,BJP,100655,45.5,1798,Chinmoy Deb Barman,BJP,131541,53.94,38192,Retained,BJP → BJP,8.44,36394
+45,Chanchal,Malda,Nihar Ranjan Ghosh,AITC,115966,58.08,67338,Prasun Banerjee,AITC,128014,54.61,63874,Retained,AITC → AITC,-3.47,-3464
+46,Harischandrapur,Malda,Tajmul Hossain,AITC,122527,60.31,77473,Md. Matibur Rahaman,AITC,113104,49.8,48271,Retained,AITC → AITC,-10.51,-29202
+47,Malatipur,Malda,Abdur Rahim Boxi,AITC,126157,68.02,91949,Abdur Rahim Boxi,AITC,104123,51.54,59747,Retained,AITC → AITC,-16.48,-32202
+48,Ratua,Malda,Samar Mukherjee,AITC,130674,59.63,75650,Samar Mukherjee,AITC,106834,45.82,32562,Retained,AITC → AITC,-13.81,-43088
+49,Manikchak,Malda,Sabitri Mitra,AITC,110234,53.26,33878,Gour Chandra Mandal,BJP,110118,48.86,38192,Flipped,AITC → BJP,-4.4,4314
+50,Maldaha,Malda,Gopal Chandra Saha,BJP,93398,45.23,15456,Gopal Chandra Saha,BJP,123656,56.0,50128,Retained,BJP → BJP,10.77,34672
+51,English Bazar,Malda,Sreerupa Mitra Chaudhury,BJP,107755,49.96,20099,Amlan Bhaduri,BJP,154096,65.7,93784,Retained,BJP → BJP,15.74,73685
+52,Mothabari,Malda,Yeasmin Sabina,AITC,97397,59.7,56573,Md. Najrul Islam,AITC,65705,40.51,10496,Retained,AITC → AITC,-19.19,-46077
+53,Sujapur,Malda,Md Abdul Ghani,AITC,152445,73.44,130163,Sabina Yeasmin,AITC,112795,49.66,60287,Retained,AITC → AITC,-23.78,-69876
+54,Baisnabnagar,Malda,Chandana Sarkar,AITC,83061,39.81,2471,Raju Karmakar,BJP,108692,48.34,46881,Flipped,AITC → BJP,8.53,44410
+55,Farakka,Murshidabad,Manirul Islam,AITC,102319,54.89,59945,Motab Shaikh,INC,63050,36.06,8193,Flipped,AITC → INC,-18.83,-51752
+56,Samserganj,Murshidabad,Amirul Islam,AITC,96417,51.13,26379,Mohammad Noor Alam,AITC,61918,39.84,7587,Retained,AITC → AITC,-11.29,-18792
+57,Suti,Murshidabad,Emani Biswas,AITC,127351,58.87,70701,Emani Biswas,AITC,81330,36.83,12357,Retained,AITC → AITC,-22.04,-58344
+58,Jangipur,Murshidabad,Zakir Hossain,AITC,136444,68.82,92480,Chitta Mukherjee,BJP,91201,42.9,10542,Flipped,AITC → BJP,-25.92,-81938
+59,Raghunathganj,Murshidabad,Akhruzzaman,AITC,126834,66.59,98313,Akhruzzaman,AITC,88909,45.65,40555,Retained,AITC → AITC,-20.94,-57758
+60,Sagardighi,Murshidabad,Subrata Saha,AITC,95189,50.95,50206,Bayron Biswas,AITC,90781,43.72,34260,Retained,AITC → AITC,-7.23,-15946
+61,Lalgola,Murshidabad,Ali Mohammad,AITC,107860,56.64,60707,Abdul Aziz,AITC,67954,37.72,18960,Retained,AITC → AITC,-18.92,-41747
+62,Bhagawangola,Murshidabad,Idris Ali,AITC,153795,68.05,106008,Reyat Hossain Sarkar,AITC,105997,48.57,56407,Retained,AITC → AITC,-19.48,-49601
+63,Raninagar,Murshidabad,Abdul Soumik Hossain,AITC,134957,60.79,79702,Julfikar Ali,INC,79423,33.48,2701,Flipped,AITC → INC,-27.31,-77001
+64,Murshidabad,Murshidabad,Gouri Sankar Ghosh,BJP,95967,41.86,2491,Gouri Shankar Ghosh,BJP,114443,48.18,31521,Retained,BJP → BJP,6.32,29030
+65,Nabagram,Murshidabad,Kanai Chandra Mondal,AITC,100455,48.18,35533,Dilip Saha,BJP,78739,35.54,5919,Flipped,AITC → BJP,-12.64,-29614
+66,Khargram,Murshidabad,Ashis Marjit,AITC,93255,50.15,32573,Mitali Mal,BJP,77748,38.02,9333,Flipped,AITC → BJP,-12.13,-23240
+67,Burwan,Murshidabad,Jiban Krishna Saha,AITC,81890,46.32,2749,Sukhen Kumar Bagdi,BJP,91661,48.52,22300,Flipped,AITC → BJP,2.2,19551
+68,Kandi,Murshidabad,Apurba Sarkar (David),AITC,95399,51.16,38080,Gargi Das Ghosh,BJP,73355,36.78,10335,Flipped,AITC → BJP,-14.38,-27745
+69,Bharatpur,Murshidabad,Humayun Kabir,AITC,96226,50.9,43083,Mustafizur Rahaman,AITC,90870,42.38,30753,Retained,AITC → AITC,-8.52,-12330
+70,Rejinagar,Murshidabad,Rabiul Alam Chowdhury,AITC,118494,56.31,68268,Humayun Kabir,AJUP,123536,51.62,58876,Flipped,AITC → AJUP,-4.69,-9392
+71,Beldanga,Murshidabad,Hasanuzzaman Sk,AITC,112862,55.19,53832,Bharat Kumar Jhawar,BJP,72872,31.88,13208,Flipped,AITC → BJP,-23.31,-40624
+72,Baharampur,Murshidabad,Subrata Maitra (Kanchan),BJP,89340,45.21,26852,Subrata Maitra,BJP,91088,40.62,17548,Retained,BJP → BJP,-4.59,-9304
+73,Hariharpara,Murshidabad,Niamot Sheikh,AITC,102660,47.51,14066,Niamot Sheikh,AITC,80338,34.14,12665,Retained,AITC → AITC,-13.37,-1401
+74,Nowda,Murshidabad,Sahina Momtaz Khan,AITC,117684,58.16,74153,Humayun Kabir,AJUP,86463,39.02,27943,Flipped,AITC → AJUP,-19.14,-46210
+75,Domkal,Murshidabad,Jafikul Islam,AITC,127671,56.45,47229,Md. Mostafijur Rahaman,CPI(M),107882,41.85,16296,Flipped,AITC → CPI(M),-14.6,-30933
+76,Jalangi,Murshidabad,Abdur Razzak,AITC,123840,55.74,79276,Babar Ali,AITC,88684,35.01,21516,Retained,AITC → AITC,-20.73,-57760
+77,Karimpur,Nadia,Bimalendu Sinha Roy,AITC,110911,50.07,23575,Samarendranath Ghosh,BJP,105234,43.68,10185,Flipped,AITC → BJP,-6.39,-13390
+78,Tehatta,Nadia,Tapas Kumar Saha,AITC,97848,44.86,6915,Subrata Kabiraj,BJP,112138,48.01,28253,Flipped,AITC → BJP,3.15,21338
+79,Palashipara,Nadia,Dr. Manik Bhattacharya,AITC,110274,54.22,51336,Rukbanur Rahman,AITC,89241,41.58,11454,Retained,AITC → AITC,-12.64,-39882
+80,Kaliganj,Nadia,Nasiruddin Ahamed (Lal),AITC,111696,53.35,46987,Alifa Ahmed,AITC,89292,40.77,10172,Retained,AITC → AITC,-12.58,-36815
+81,Nakashipara,Nadia,Kallol Khan,AITC,104812,50.01,21271,Shantanu Dey,BJP,100600,48.85,17327,Flipped,AITC → BJP,-1.16,-3944
+82,Chapra,Nadia,Rukbanur Rahman,AITC,73866,34.65,12118,Jeber Sekh,AITC,97085,46.06,30780,Retained,AITC → AITC,11.41,18662
+83,Krishnanagar Uttar,Nadia,Mukul Roy,BJP,109357,54.19,35089,Tarak Nath Chatterjee,BJP,133211,65.93,78361,Retained,BJP → BJP,11.74,43272
+84,Nabadwip,Nadia,Pundarikakshya Saha,AITC,102170,48.52,18571,Srutisekhar Goswami,BJP,108631,49.79,21444,Flipped,AITC → BJP,1.27,2873
+85,Krishnanagar Dakshin,Nadia,Ujjal Biswas,AITC,91738,46.88,9305,Sadhan Ghosh,BJP,102862,52.19,27801,Flipped,AITC → BJP,5.31,18496
+86,Santipur,Nadia,Jagannath Sarkar,BJP,109722,49.94,15878,Swapan Kumar Das,BJP,117941,54.86,45376,Retained,BJP → BJP,4.92,29498
+87,Ranaghat Uttar Paschim,Nadia,Parthasarathi Chatterjee,BJP,113637,50.91,23128,Parthasarathi Chatterjee,BJP,129046,59.43,57551,Retained,BJP → BJP,8.52,34423
+88,Krishnaganj,Nadia,Ashis Kumar Biswas,BJP,117668,50.73,21277,Sukanta Biswas,BJP,139838,60.15,60899,Retained,BJP → BJP,9.42,39622
+89,Ranaghat Uttar Purba,Nadia,Ashim Biswas,BJP,116786,54.39,31782,Ashim Biswas,BJP,126235,59.71,51743,Retained,BJP → BJP,5.32,19961
+90,Ranaghat Dakshin,Nadia,Mukut Mani Adhikari,BJP,119260,49.34,16515,Ashim Kumar Biswas,BJP,140010,60.17,64464,Retained,BJP → BJP,10.83,47949
+91,Chakdaha,Nadia,Bankim Chandra Ghosh,BJP,99368,46.86,11680,Bankim Chandra Ghosh,BJP,115433,54.78,36945,Retained,BJP → BJP,7.92,25265
+92,Kalyani,Nadia,Ambika Roy,BJP,97026,44.04,2206,Anupam Biswas,BJP,114469,53.12,34792,Retained,BJP → BJP,9.08,32586
+93,Haringhata,Nadia,Asim Kumar Sarkar,BJP,97666,46.31,15200,Asim Kumar Sarkar,BJP,107900,50.72,22055,Retained,BJP → BJP,4.41,6855
+94,Bagda,North 24 Parganas,Biswajit Das,BJP,108111,49.41,9792,Soma Thakur,BJP,121307,55.84,34616,Retained,BJP → BJP,6.43,24824
+95,Bangaon Uttar,North 24 Parganas,Ashok Kirtania,BJP,97761,47.65,10488,Ashok Kirtania,BJP,119317,56.46,40670,Retained,BJP → BJP,8.81,30182
+96,Bangaon Dakshin,North 24 Parganas,Swapan Majumder,BJP,97828,47.07,2004,Swapan Majumder,BJP,119399,56.27,37814,Retained,BJP → BJP,9.2,35810
+97,Gaighata,North 24 Parganas,Subrata Thakur,BJP,100808,47.27,9578,Subrata Thakur,BJP,121322,57.99,47683,Retained,BJP → BJP,10.72,38105
+98,Swarupnagar,North 24 Parganas,Bina Mondal,AITC,99784,47.11,34800,Bina Mondal,AITC,94813,43.47,16017,Retained,AITC → AITC,-3.64,-18783
+99,Baduria,North 24 Parganas,Abdur Rahim Quazi,AITC,109701,51.53,56444,Burhanul Mokaddin,AITC,103334,45.45,40061,Retained,AITC → AITC,-6.08,-16383
+100,Habra,North 24 Parganas,Jyoti Priya Mallick,AITC,90533,44.34,3841,Debdas Mondal,BJP,104645,52.66,31462,Flipped,AITC → BJP,8.32,27621
+101,Ashoknagar,North 24 Parganas,Narayan Goswami,AITC,93587,43.18,23532,Dr. Sumay Hira,BJP,96807,44.05,9408,Flipped,AITC → BJP,0.87,-14124
+102,Amdanga,North 24 Parganas,Rafiqur Rahaman,AITC,88935,42.0,25480,Mohammad Kasem Siddique,AITC,81670,38.25,2995,Retained,AITC → AITC,-3.75,-22485
+103,Bijpur,North 24 Parganas,Subodh Adhikary,AITC,66625,47.9,13347,Sudipta Das,BJP,71799,49.56,13343,Flipped,AITC → BJP,1.66,-4
+104,Naihati,North 24 Parganas,Partha Bhowmick,AITC,77753,49.69,18855,Sumitro Chatterjee,BJP,77484,49.15,10430,Flipped,AITC → BJP,-0.54,-8425
+105,Bhatpara,North 24 Parganas,Pawan Kumar Singh,BJP,57244,53.4,13687,Pawan Kumar Singh,BJP,61683,58.02,22807,Retained,BJP → BJP,4.62,9120
+106,Jagatdal,North 24 Parganas,Somenath Shyam Ichini,AITC,87030,48.01,18364,Rajesh Kumar,BJP,94351,51.5,20909,Flipped,AITC → BJP,3.49,2545
+107,Noapara,North 24 Parganas,Manju Basu,AITC,94203,48.9,26710,Arjun Singh,BJP,94415,48.37,17656,Flipped,AITC → BJP,-0.53,-9054
+108,Barrackpur,North 24 Parganas,Raju Chakraborty (Raj),AITC,68887,46.47,9222,Kaustuv Bagchi,BJP,78466,50.65,15822,Flipped,AITC → BJP,4.18,6600
+109,Khardaha,North 24 Parganas,Kajal Sinha,AITC,89807,49.04,28140,Kalyan Chakraborti,BJP,97752,49.75,24486,Flipped,AITC → BJP,0.71,-3654
+110,Dum Dum Uttar,North 24 Parganas,Chandrima Bhattacharya,AITC,95465,44.79,28499,Sourav Sikdar,BJP,103284,46.24,26404,Flipped,AITC → BJP,1.45,-2095
+111,Panihati,North 24 Parganas,Nirmal Ghosh,AITC,86495,49.61,25177,Ratna Debnath,BJP,87977,50.28,28836,Flipped,AITC → BJP,0.67,3659
+112,Kamarhati,North 24 Parganas,Madan Mitra,AITC,73845,51.17,35408,Madan Mitra,AITC,64817,43.71,5646,Retained,AITC → AITC,-7.46,-29762
+113,Baranagar,North 24 Parganas,Tapas Roy,AITC,85615,53.42,35147,Sajal Ghosh,BJP,81730,48.26,16956,Flipped,AITC → BJP,-5.16,-18191
+114,Dum Dum,North 24 Parganas,Bratya Basu,AITC,87999,47.48,26731,Arijit Bakshi,BJP,99181,50.07,25273,Flipped,AITC → BJP,2.59,-1458
+115,Rajarhat New Town,North 24 Parganas,Tapash Chatterjee,AITC,127374,54.22,56432,Piyush Kanodia,BJP,106564,42.19,316,Flipped,AITC → BJP,-12.03,-56116
+116,Bidhannagar,North 24 Parganas,Sujit Bose,AITC,75912,46.85,7997,Sharadwat Mukherjee,BJP,97979,55.2,37330,Flipped,AITC → BJP,8.35,29333
+117,Rajarhat Gopalpur,North 24 Parganas,Aditi Munshi,AITC,87650,49.04,25296,Tarunjyoti Tewari,BJP,101277,51.74,27757,Flipped,AITC → BJP,2.7,2461
+118,Madhyamgram,North 24 Parganas,Rathin Ghosh,AITC,112741,48.93,48126,Rathin Ghosh,AITC,95995,41.21,2399,Retained,AITC → AITC,-7.72,-45727
+119,Barasat,North 24 Parganas,Chiranjeet Chakrabarti,AITC,104431,46.27,23783,Sankar Chatterjee,BJP,122171,51.64,34558,Flipped,AITC → BJP,5.37,10775
+120,Deganga,North 24 Parganas,Rahima Mondal,AITC,100105,46.7,32537,Anisur Rahaman Bidesh,AITC,101114,43.31,17818,Retained,AITC → AITC,-3.39,-14719
+121,Haroa,North 24 Parganas,Islam Sk Nurul (Haji),AITC,130398,57.34,80978,Abdul Matin Muhammad,AITC,117591,49.52,49341,Retained,AITC → AITC,-7.82,-31637
+122,Minakhan,North 24 Parganas,Usha Rani Mondal,AITC,109818,51.72,55830,Usha Rani Mondal,AITC,92079,42.66,32292,Retained,AITC → AITC,-9.06,-23538
+123,Sandeshkhali,North 24 Parganas,Sukumar Mahata,AITC,112450,54.64,39685,Sanat Sardar,BJP,107189,49.58,17510,Flipped,AITC → BJP,-5.06,-22175
+124,Basirhat Dakshin,North 24 Parganas,Dr. Saptarshi Banerjee,AITC,115873,49.15,24468,Surajit Mitra,AITC,112965,45.09,9544,Retained,AITC → AITC,-4.06,-14924
+125,Basirhat Uttar,North 24 Parganas,Rafikul Islam Mondal,AITC,137216,57.55,89351,Md. Tauseffur Rahman,AITC,115503,48.42,57270,Retained,AITC → AITC,-9.13,-32081
+126,Hingalganj,North 24 Parganas,Debes Mandal,AITC,104706,53.78,24916,Rekha Patra,BJP,100207,48.39,5421,Flipped,AITC → BJP,-5.39,-19495
+127,Gosaba,South 24 Parganas,Jayanta Naskar,AITC,105723,53.99,23709,Bikarna Naskar,BJP,108492,51.34,16100,Flipped,AITC → BJP,-2.65,-7609
+128,Basanti,South 24 Parganas,Shyamal Mondal,AITC,111453,52.1,50642,Nilima Mistry,AITC,127495,54.99,56181,Retained,AITC → AITC,2.89,5539
+129,Kultali,South 24 Parganas,Ganesh Chandra Mondal,AITC,117238,51.57,47177,Ganesh Chandra Mondal,AITC,146435,57.75,59276,Retained,AITC → AITC,6.18,12099
+130,Patharpratima,South 24 Parganas,Samir Kumar Jana,AITC,120181,51.85,22134,Samir Kumar Jana,AITC,117164,47.62,4873,Retained,AITC → AITC,-4.23,-17261
+131,Kakdwip,South 24 Parganas,Manturam Pakhira,AITC,114493,52.14,25302,Dipankar Jana,BJP,109373,47.29,4760,Flipped,AITC → BJP,-4.85,-20542
+132,Sagar,South 24 Parganas,Bankim Chandra Hazra,AITC,129000,53.96,29846,Sumanta Mandal,BJP,127802,49.52,7881,Flipped,AITC → BJP,-4.44,-21965
+133,Kulpi,South 24 Parganas,Jogaranjan Halder,AITC,96577,50.01,33818,Barnali Dhara,AITC,91266,43.94,10383,Retained,AITC → AITC,-6.07,-23435
+134,Raidighi,South 24 Parganas,Aloke Jaldata,AITC,115707,48.47,35568,Tapas Mondal,AITC,118991,46.16,5957,Retained,AITC → AITC,-2.31,-29611
+135,Mandirbazar,South 24 Parganas,Joydeb Halder,AITC,95834,48.04,23492,Joydeb Halder,AITC,93686,43.94,1995,Retained,AITC → AITC,-4.1,-21497
+136,Jaynagar,South 24 Parganas,Biswanath Das,AITC,104952,51.85,38683,Biswanath Das,AITC,108194,49.38,26350,Retained,AITC → AITC,-2.47,-12333
+137,Baruipur Purba,South 24 Parganas,Bivas Sardar (Vobo),AITC,123243,54.75,49641,Bivas Sardar,AITC,120987,50.98,31815,Retained,AITC → AITC,-3.77,-17826
+138,Canning Paschim,South 24 Parganas,Paresh Ram Das,AITC,111059,50.86,35243,Paresh Ram Das,AITC,120548,52.26,40665,Retained,AITC → AITC,1.4,5422
+139,Canning Purba,South 24 Parganas,Saokat Molla,AITC,122301,52.54,53007,Md Baharul Islam,AITC,148687,61.53,91954,Retained,AITC → AITC,8.99,38947
+140,Baruipur Paschim,South 24 Parganas,Biman Banerjee,AITC,121006,57.27,61910,Biman Banerjee,AITC,104781,47.41,17862,Retained,AITC → AITC,-9.86,-44048
+141,Magrahat Purba,South 24 Parganas,Namita Saha,AITC,110945,53.82,54079,Sarmistha Purkait,AITC,108412,48.8,31607,Retained,AITC → AITC,-5.02,-22472
+142,Magrahat Paschim,South 24 Parganas,Gias Uddin Molla,AITC,97006,49.93,46941,Shamim Ahmed Molla,AITC,113834,55.43,58503,Retained,AITC → AITC,5.5,11562
+143,Diamond Harbour,South 24 Parganas,Pannalal Halder,AITC,98478,43.69,16996,Pannalal Halder,AITC,119320,51.38,31266,Retained,AITC → AITC,7.69,14270
+144,Falta,South 24 Parganas,Sankar Kumar Naskar,AITC,117179,56.35,40774,Debangshu Panda,BJP,149666,71.2,109021,Flipped,AITC → BJP,14.85,68247
+145,Satgachhia,South 24 Parganas,Mohan Chandra Naskar,AITC,118635,50.37,23318,Agniswar Naskar,BJP,111023,46.38,401,Flipped,AITC → BJP,-3.99,-22917
+146,Bishnupur,South 24 Parganas,Dilip Mondal,AITC,136509,57.46,58832,Dilip Mondal,AITC,132647,52.93,36925,Retained,AITC → AITC,-4.53,-21907
+147,Sonarpur Dakshin,South 24 Parganas,Arundhuti Maitra (Lovely),AITC,109222,46.92,26181,Roopa Ganguly,BJP,128970,52.34,35782,Flipped,AITC → BJP,5.42,9601
+148,Bhangar,South 24 Parganas,Md. Nawsad Siddique,ISF,109237,45.1,26151,Naushad Siddiqui,ISF,126555,47.33,32088,Retained,ISF → ISF,2.23,5937
+149,Kasba,South 24 Parganas,Ahmed Javed Khan,AITC,121372,54.39,63622,Javed Ahmed Khan,AITC,117893,48.88,20974,Retained,AITC → AITC,-5.51,-42648
+150,Jadavpur,South 24 Parganas,Debabrata Majumdar (Malay),AITC,98100,45.54,38869,Sarbori Mukherjee,BJP,106199,45.96,27716,Flipped,AITC → BJP,0.42,-11153
+151,Sonarpur Uttar,South 24 Parganas,Firdousi Begum,AITC,119957,49.88,36090,Debasish Dhar,BJP,119824,46.73,9807,Flipped,AITC → BJP,-3.15,-26283
+152,Tollyganj,South 24 Parganas,Aroop Biswas,AITC,101440,51.4,50080,Papiya Adhikari,BJP,88407,42.99,6013,Flipped,AITC → BJP,-8.41,-44067
+153,Behala Purba,South 24 Parganas,Ratna Chatterjee,AITC,110968,50.01,37428,Sankar Sikder,BJP,115502,49.22,25137,Flipped,AITC → BJP,-0.79,-12291
+154,Behala Paschim,South 24 Parganas,Partha Chatterjee,AITC,114778,49.51,50884,Indranil Khan,BJP,113502,47.39,24699,Flipped,AITC → BJP,-2.12,-26185
+155,Maheshtala,South 24 Parganas,Dulal Chandra Das,AITC,124008,56.38,57949,Subhasis Das,AITC,116811,50.83,32913,Retained,AITC → AITC,-5.55,-25036
+156,Budge Budge,South 24 Parganas,Ashok Kumar Deb,AITC,122357,56.41,44714,Ashok Kumar Deb,AITC,127091,58.27,46850,Retained,AITC → AITC,1.86,2136
+157,Metiaburuz,South 24 Parganas,Abdul Khaleque Molla,AITC,151066,76.85,119604,Abdul Khaleque Molla,AITC,124230,68.99,87879,Retained,AITC → AITC,-7.86,-31725
+158,Kolkata Port,Kolkata,Firhad Hakim,AITC,105543,69.23,68554,Firhad Hakim,AITC,101266,65.43,56080,Retained,AITC → AITC,-3.8,-12474
+159,Bhabanipur,Kolkata,Sobhandeb Chattopadhyay,AITC,73505,57.71,28719,Suvendu Adhikari,BJP,73917,53.02,15105,Flipped,AITC → BJP,-4.69,-13614
+160,Rashbehari,Kolkata,Debasish Kumar,AITC,65704,52.79,21414,Swapan Dasgupta,BJP,74123,53.39,20865,Flipped,AITC → BJP,0.6,-549
+161,Ballygunge,Kolkata,Subrata Mukherjee,AITC,106585,70.6,75359,Sovandeb Chattopadhyay,AITC,108481,64.81,61476,Retained,AITC → AITC,-5.79,-13883
+162,Chowrangee,Kolkata,Bandyopadhyay Nayna,AITC,70101,62.87,45344,Nayna Bandyopadhyay,AITC,62938,57.15,22002,Retained,AITC → AITC,-5.72,-23342
+163,Entally,Kolkata,Swarna Kamal Saha,AITC,101709,64.83,58257,Sandipan Saha,AITC,94427,57.16,34006,Retained,AITC → AITC,-7.67,-24251
+164,Beleghata,Kolkata,Paresh Paul,AITC,103182,65.1,67140,Kunal Ghosh,AITC,93757,53.85,28576,Retained,AITC → AITC,-11.25,-38564
+165,Jorasanko,Kolkata,Vivek Gupta,AITC,52123,52.67,12743,Vijay Ojha,BJP,52668,49.48,5797,Flipped,AITC → BJP,-3.19,-6946
+166,Shyampukur,Kolkata,Dr. Shashi Panja,AITC,55785,54.18,22520,Purnima Chakraborty,BJP,60248,51.6,14633,Flipped,AITC → BJP,-2.58,-7887
+167,Maniktala,Kolkata,Sadhan Pande,AITC,67577,50.82,20238,Tapas Roy,BJP,76370,50.67,15644,Flipped,AITC → BJP,-0.15,-4594
+168,Kashipur-Belgachhia,Kolkata,Atin Ghosh,AITC,76182,56.48,35390,Ritesh Tiwari,BJP,68368,45.41,1651,Flipped,AITC → BJP,-11.07,-33739
+169,Bally,Howrah,Rana Chatterjee,AITC,53347,42.38,6237,Sanjay Kumar Singh,BJP,57639,48.91,11997,Flipped,AITC → BJP,6.53,5760
+170,Howrah Uttar,Howrah,Gautam Chowdhuri,AITC,71575,47.81,5522,Umesh Rai,BJP,67539,50.76,11250,Flipped,AITC → BJP,2.95,5728
+171,Howrah Madhya,Howrah,"Arup Roy, S/O Late Prabhat Roy",AITC,111554,57.16,46547,Arup Roy,AITC,95948,49.6,16083,Retained,AITC → AITC,-7.56,-30464
+172,Shibpur,Howrah,Manoj Tiwary,AITC,92372,50.69,32603,Rudranil Ghosh,BJP,89615,49.42,16058,Flipped,AITC → BJP,-1.27,-16545
+173,Howrah Dakshin,Howrah,Nandita Chowdhury,AITC,116839,53.86,50569,Nandita Chowdhury,AITC,100540,45.28,7828,Retained,AITC → AITC,-8.58,-42741
+174,Sankrail,Howrah,Priya Paul,AITC,111888,50.37,40427,Priya Paul,AITC,105412,45.99,16740,Retained,AITC → AITC,-4.38,-23687
+175,Panchla,Howrah,Gulsan Mullick,AITC,104572,48.19,32751,Gulsan Mullick,AITC,123967,52.72,38320,Retained,AITC → AITC,4.53,5569
+176,Uluberia Purba,Howrah,Bidesh Ranjan Bose,AITC,86526,44.83,17126,Ritabrata Banerjee,AITC,95633,45.97,11838,Retained,AITC → AITC,1.14,-5288
+177,Uluberia Uttar,Howrah,Dr. Nirmal Maji,AITC,91501,49.25,21003,Chiran Bera,BJP,93320,45.87,4177,Flipped,AITC → BJP,-3.38,-16826
+178,Uluberia Dakshin,Howrah,Pulak Roy,AITC,101880,50.37,28438,Pulak Roy,AITC,109649,48.46,17187,Retained,AITC → AITC,-1.91,-11251
+179,Shyampur,Howrah,Kalipada Mandal,AITC,114804,51.74,31511,Hiran Chatterjee,BJP,125651,51.36,22260,Flipped,AITC → BJP,-0.38,-9251
+180,Bagnan,Howrah,Arunava Sen (Raja),AITC,106042,53.04,30120,Arunava Sen,AITC,105060,48.1,11316,Retained,AITC → AITC,-4.94,-18804
+181,Amta,Howrah,Sukanta Kumar Paul,AITC,102445,49.06,26205,Amit Samanta,BJP,104649,44.16,4454,Flipped,AITC → BJP,-4.9,-21751
+182,Udaynarayanpur,Howrah,Samir Kumar Panja,AITC,101510,51.21,13998,Samir Kumar Panja,AITC,105802,49.53,12227,Retained,AITC → AITC,-1.68,-1771
+183,Jagatballavpur,Howrah,Sitanath Ghosh,AITC,116562,49.45,29196,Anupam Ghosh,BJP,115608,45.78,6671,Flipped,AITC → BJP,-3.67,-22525
+184,Domjur,Howrah,Kalyan Ghosh,AITC,130499,52.0,42620,Tapas Maity,AITC,134036,52.73,42177,Retained,AITC → AITC,0.73,-443
+185,Uttarpara,Hooghly,Kanchan Mullick,AITC,93878,46.96,35989,Dipanjan Chakraborty,BJP,80612,39.24,10415,Flipped,AITC → BJP,-7.72,-25574
+186,Sreerampur,Hooghly,Dr. Sudipto Roy,AITC,93021,49.46,23433,Bhaskar Bhattacharya,BJP,85644,45.97,8685,Flipped,AITC → BJP,-3.49,-14748
+187,Champdani,Hooghly,Arindam Guin (Bubai),AITC,100972,50.2,30078,Dilip Singh,BJP,93704,45.84,3026,Flipped,AITC → BJP,-4.36,-27052
+188,Singur,Hooghly,Becharam Manna,AITC,101077,48.15,25923,Arup Kumar Das,BJP,113008,50.77,21438,Flipped,AITC → BJP,2.62,-4485
+189,Chandannagar,Hooghly,Indranil Sen,AITC,86778,47.63,31029,Deepanjan Kumar Guha,BJP,86273,46.16,13441,Flipped,AITC → BJP,-1.47,-17588
+190,Chunchura,Hooghly,Asit Mazumder (Tapan),AITC,117104,45.97,18417,Subir Nag,BJP,137704,53.96,43435,Flipped,AITC → BJP,7.99,25018
+191,Balagarh,Hooghly,Manoranjan Bapari,AITC,100364,45.63,5784,Sumana Sarkar,BJP,125624,55.58,41914,Flipped,AITC → BJP,9.95,36130
+192,Pandua,Hooghly,Dr. Ratna De Nag,AITC,102874,45.99,31858,Tusar Kumar Majumdar,BJP,101349,43.36,5228,Flipped,AITC → BJP,-2.63,-26630
+193,Saptagram,Hooghly,Tapan Dasgupta,AITC,93328,48.56,9772,Swaraj Ghosh,BJP,102414,52.1,23289,Flipped,AITC → BJP,3.54,13517
+194,Chanditala,Hooghly,Swati Khandoker,AITC,103118,49.79,41347,Swati Khandoker,AITC,107143,47.1,19663,Retained,AITC → AITC,-2.69,-21684
+195,Jangipara,Hooghly,Snehasis Chakraborty,AITC,101885,48.42,17926,Prosenjit Bag,BJP,102409,44.09,862,Flipped,AITC → BJP,-4.33,-17064
+196,Haripal,Hooghly,Dr. Karabi Manna,AITC,110215,49.92,23072,Madhumita Ghosh,BJP,113332,46.07,3488,Flipped,AITC → BJP,-3.85,-19584
+197,Dhanekhali,Hooghly,Asima Patra,AITC,124776,53.36,30159,Asima Patra,AITC,123462,49.85,13057,Retained,AITC → AITC,-3.51,-17102
+198,Tarakeswar,Hooghly,Ramendu Sinharay,AITC,96698,46.96,7484,Santu Pan,BJP,116901,52.76,30999,Flipped,AITC → BJP,5.8,23515
+199,Pursurah,Hooghly,Biman Ghosh,BJP,119334,53.5,28178,Biman Ghosh,BJP,138821,57.62,53453,Retained,BJP → BJP,4.12,25275
+200,Arambag,Hooghly,Madhusudan Bag,BJP,103108,46.88,7172,Hemanta Bag,BJP,123000,52.15,28959,Retained,BJP → BJP,5.27,21787
+201,Goghat,Hooghly,Biswanath Karak,BJP,102227,46.56,4147,Prasanta Digar,BJP,134498,57.39,49582,Retained,BJP → BJP,10.83,45435
+202,Khanakul,Hooghly,Susanta Ghosh,BJP,107403,49.27,12884,Susanta Ghosh,BJP,126729,53.44,34483,Retained,BJP → BJP,4.17,21599
+203,Tamluk,Purba Medinipur,Saumen Kumar Mahapatra,AITC,108243,45.86,793,Hare Krishna Bera,BJP,136566,53.15,34729,Flipped,AITC → BJP,7.29,33936
+204,Panskura Purba,Purba Medinipur,Biplab Roy Chowdhury,AITC,91213,45.97,9660,Subrata Maity,BJP,109264,49.5,17903,Flipped,AITC → BJP,3.53,8243
+205,Panskura Paschim,Purba Medinipur,Phiroja Bibi,AITC,111705,47.71,8889,Sintu Senapati,BJP,137919,53.37,32567,Flipped,AITC → BJP,5.66,23678
+206,Moyna,Purba Medinipur,Ashoke Dinda,BJP,108109,48.17,1260,Ashok Dinda,BJP,127166,51.62,16241,Retained,BJP → BJP,3.45,14981
+207,Nandakumar,Purba Medinipur,Sukumar De,AITC,108181,47.6,5406,Nirmal Khanra,BJP,131476,52.73,30603,Flipped,AITC → BJP,5.13,25197
+208,Mahisadal,Purba Medinipur,Tilak Kumar Chakraborty,AITC,101986,46.49,2386,Subhas Chandra Panja,BJP,121584,51.05,26238,Flipped,AITC → BJP,4.56,23852
+209,Haldia,Purba Medinipur,Tapasi Mondal,BJP,104126,47.15,15008,Pradip Kumar Bijali,BJP,132183,55.2,49062,Retained,BJP → BJP,8.05,34054
+210,Nandigram,Purba Medinipur,Adhikari Suvendu,BJP,110764,48.49,1956,Suvendu Adhikari,BJP,127301,50.37,9665,Retained,BJP → BJP,1.88,7709
+211,Chandipur,Purba Medinipur,Soham Chakraborty,AITC,109770,49.82,13472,Pijush Kanti Das,BJP,126047,52.09,20270,Flipped,AITC → BJP,2.27,6798
+212,Patashpur,Purba Medinipur,Uttam Barik,AITC,105299,50.42,9994,Tapan Maity,BJP,116589,50.24,9051,Flipped,AITC → BJP,-0.18,-943
+213,Kanthi Uttar,Purba Medinipur,Sumita Sinha,BJP,113524,49.7,9330,Sumita Sinha,BJP,130088,52.16,20055,Retained,BJP → BJP,2.46,10725
+214,Bhagabanpur,Purba Medinipur,Rabindranath Maity,BJP,121480,54.56,27549,Santanu Pramanik,BJP,130586,52.73,20878,Retained,BJP → BJP,-1.83,-6671
+215,Khejuri,Purba Medinipur,Santanu Pramanik,BJP,110407,51.93,17965,Subrata Paik,BJP,129875,54.96,32690,Retained,BJP → BJP,3.03,14725
+216,Kanthi Dakshin,Purba Medinipur,Arup Kumar Das,BJP,98477,50.58,10293,Arup Kumar Das,BJP,118219,55.54,31472,Retained,BJP → BJP,4.96,21179
+217,Ramnagar,Purba Medinipur,Akhil Giri,AITC,112622,50.72,12517,Chandra Sekhar Mondal,BJP,131808,53.83,26939,Flipped,AITC → BJP,3.11,14422
+218,Egra,Purba Medinipur,Tarun Kumar Maity,AITC,125763,52.22,18491,Dibyendu Adhikari,BJP,142670,52.96,25692,Flipped,AITC → BJP,0.74,7201
+219,Dantan,Paschim Medinipur,Bikram Chandra Pradhan,AITC,95209,48.13,623,Ajit Kumar Jana,BJP,110259,50.49,10376,Flipped,AITC → BJP,2.36,9753
+220,Nayagram,Jhargram,Dulal Murmu,AITC,100903,52.46,22754,Amiya Kisku,BJP,100857,48.56,6424,Flipped,AITC → BJP,-3.9,-16330
+221,Gopiballavpur,Jhargram,Dr. Khagendra Nath Mahata,AITC,104115,52.3,23768,Rajesh Mahata,BJP,114683,53.75,26675,Flipped,AITC → BJP,1.45,2907
+222,Jhargram,Jhargram,Birbaha Hansda,AITC,109493,54.26,38240,Lakshmi Kanta Sau,BJP,120877,54.71,38147,Flipped,AITC → BJP,0.45,-93
+223,Keshiary,Paschim Medinipur,Paresh Murmu,AITC,106366,50.01,15330,Bhadra Hemram,BJP,113713,50.8,15887,Flipped,AITC → BJP,0.79,557
+224,Kharagpur Sadar,Paschim Medinipur,Hiranmoy Chattopadhyaya,BJP,79607,46.45,3771,Dilip Ghosh,BJP,89885,55.6,30506,Retained,BJP → BJP,9.15,26735
+225,Narayangarh,Paschim Medinipur,Atta Surja Kanta,AITC,100894,46.33,2416,Giri Ramaprasad,BJP,116050,51.25,20367,Flipped,AITC → BJP,4.92,17951
+226,Sabang,Paschim Medinipur,Manas Ranjan Bhunia,AITC,112098,47.46,9864,Amal Kumar Panda,BJP,127783,49.66,11136,Flipped,AITC → BJP,2.2,1272
+227,Pingla,Paschim Medinipur,Ajit Maity,AITC,112435,49.17,6656,Swagata Manna,BJP,124189,51.16,18480,Flipped,AITC → BJP,1.99,11824
+228,Kharagpur,Paschim Medinipur,Dinen Roy,AITC,109727,54.85,36230,Dinen Roy,AITC,98320,47.14,2872,Retained,AITC → AITC,-7.71,-33358
+229,Debra,Paschim Medinipur,Humayun Kabir,AITC,95850,46.79,11226,Subhasis Om,BJP,114463,52.67,28801,Flipped,AITC → BJP,5.88,17575
+230,Daspur,Paschim Medinipur,Mamata Bhunia,AITC,114753,51.58,26842,Tapan Kumar Dutta,BJP,133071,52.8,32134,Flipped,AITC → BJP,1.22,5292
+231,Ghatal,Paschim Medinipur,Sital Kapat,BJP,105812,46.95,966,Shital Kapat,BJP,131550,54.35,37657,Retained,BJP → BJP,7.4,36691
+232,Chandrakona,Paschim Medinipur,Arup Dhara,AITC,121846,48.87,11281,Sukanta Dolui,BJP,140517,53.09,33481,Flipped,AITC → BJP,4.22,22200
+233,Garbeta,Paschim Medinipur,Uttara Singha (Hazra),AITC,94928,45.71,10572,Pradeep Lodha,BJP,113752,51.23,26225,Flipped,AITC → BJP,5.52,15653
+234,Salboni,Paschim Medinipur,Srikanta Mahata,AITC,126020,50.57,32644,Biman Mahato,BJP,132856,49.86,15243,Flipped,AITC → BJP,-0.71,-17401
+235,Keshpur,Paschim Medinipur,Seuli Saha,AITC,116992,50.81,20720,Seuli Saha,AITC,143123,56.36,50105,Retained,AITC → AITC,5.55,29385
+236,Medinipur,Paschim Medinipur,June Maliah,AITC,121175,50.72,24397,Shankar Guchhait,BJP,133041,54.51,38747,Flipped,AITC → BJP,3.79,14350
+237,Binpur,Jhargram,Debnath Hansda,AITC,100277,53.11,39494,Pranat Tudu,BJP,107238,51.54,22977,Flipped,AITC → BJP,-1.57,-16517
+238,Bandwan,Purulia,Rajib Lochan Saren,AITC,113337,47.02,18831,Labsen Baskey,BJP,134080,50.37,29577,Flipped,AITC → BJP,3.35,10746
+239,Balarampur,Purulia,Baneswar Mahato,BJP,89521,45.22,423,Jaladhar Mahato,BJP,118421,53.84,35051,Retained,BJP → BJP,8.62,34628
+240,Baghmundi,Purulia,Sushanta Mahato,AITC,75905,36.79,13969,Rahidas Mahato,BJP,112663,48.95,40817,Flipped,AITC → BJP,12.16,26848
+241,Joypur,Purulia,Nara Hari Mahato,BJP,74380,36.68,12200,Biswajit Mahato,BJP,104668,44.88,22218,Retained,BJP → BJP,8.2,10018
+242,Purulia,Purulia,Sudip Kumar Mukherjee,BJP,89733,43.38,7018,Sudip Kumar Mukherjee,BJP,128454,55.69,49253,Retained,BJP → BJP,12.31,42235
+243,Manbazar,Purulia,Sandhyarani Tudu,AITC,103298,48.33,15516,Mayna Murmu,BJP,120487,50.95,27283,Flipped,AITC → BJP,2.62,11767
+244,Kashipur,Purulia,Kamalakanta Hansda,BJP,92938,47.69,7387,Kamalakanta Hansda,BJP,106571,50.28,21276,Retained,BJP → BJP,2.59,13889
+245,Para,Purulia,Nadiar Chand Bouri,BJP,87347,45.02,4007,Nadiar Chand Bouri,BJP,113488,52.55,33721,Retained,BJP → BJP,7.53,29714
+246,Raghunathpur,Purulia,Vivekananda Bauri,BJP,95770,44.61,5438,Mamoni Bauri,BJP,127628,54.44,44059,Retained,BJP → BJP,9.83,38621
+247,Saltora,Bankura,Bauri Chandana,BJP,91648,45.28,4145,Chandana Bauri,BJP,115180,52.72,32135,Retained,BJP → BJP,7.44,27990
+248,Chhatna,Bankura,Satyanarayan Mukhopadhyay,BJP,90233,45.84,7164,Satyanarayan Mukhopadhyay,BJP,125972,56.76,47174,Retained,BJP → BJP,10.92,40010
+249,Ranibandh,Bankura,Jyotsna Mandi,AITC,90928,43.06,3939,Kshudiram Tudu,BJP,131145,55.38,52269,Flipped,AITC → BJP,12.32,48330
+250,Raipur,Bankura,Mrityunjoy Murmu,AITC,101043,51.96,19398,Kshetra Mohan Hansda,BJP,111443,53.01,28742,Flipped,AITC → BJP,1.05,9344
+251,Taldangra,Bankura,Arup Chakraborty,AITC,92026,45.29,12377,Souvik Patra,BJP,124537,56.62,50073,Flipped,AITC → BJP,11.33,37696
+252,Bankura,Bankura,Niladri Sekhar Dana,BJP,95466,43.79,1468,Niladri Sekhar Dana,BJP,136992,57.24,54177,Retained,BJP → BJP,13.45,52709
+253,Barjora,Bankura,Alok Mukherjee,AITC,93290,42.51,3269,Billeswar Sinha,BJP,125419,53.29,41310,Flipped,AITC → BJP,10.78,38041
+254,Onda,Bankura,Amarnath Shakha,BJP,104940,46.48,11551,Amarnath Shakha,BJP,128296,52.09,31723,Retained,BJP → BJP,5.61,20172
+255,Bishnupur,Bankura,Tanmay Ghosh (Bumba),BJP,89689,46.84,11420,Shukla Chatterjee,BJP,111082,53.54,30605,Retained,BJP → BJP,6.7,19185
+256,Katulpur,Bankura,Harakali Protiher,BJP,106022,47.31,11785,Lakshmi Kanta Majumdar,BJP,126241,52.55,34367,Retained,BJP → BJP,5.24,22582
+257,Indus,Bankura,Nirmal Kumar Dhara,BJP,104936,48.04,7220,Nirmal Kumar Dhara,BJP,108733,46.79,900,Retained,BJP → BJP,-1.25,-6320
+258,Sonamukhi,Bankura,Dibakar Gharami,BJP,98161,47.25,10888,Dibakar Gharami,BJP,115549,52.08,29410,Retained,BJP → BJP,4.83,18522
+259,Khandaghosh,Purba Bardhaman,Nabin Chandra Bag,AITC,104264,47.85,20886,Nabin Chandra Bag,AITC,104183,46.67,6528,Retained,AITC → AITC,-1.18,-14358
+260,Bardhaman Dakshin,Purba Bardhaman,Khokan Das,AITC,91015,44.32,8105,Moumita Biswas Misra,BJP,107754,52.61,30470,Flipped,AITC → BJP,8.29,22365
+261,Raina,Purba Bardhaman,Shampa Dhara,AITC,108752,47.46,18205,Subhash Patra,BJP,103487,44.37,834,Flipped,AITC → BJP,-3.09,-17371
+262,Jamalpur,Purba Bardhaman,Alok Kumar Majhi,AITC,96999,46.93,17971,Arun Halder,BJP,99936,46.53,11178,Flipped,AITC → BJP,-0.4,-6793
+263,Monteswar,Purba Bardhaman,Chowdhury Siddiqullah,AITC,105460,50.45,31805,Saikat Panja,BJP,96559,47.29,14798,Flipped,AITC → BJP,-3.16,-17007
+264,Kalna,Purba Bardhaman,Deboprasad Bag (Poltu),AITC,96073,45.98,7478,Siddhartha Majumdar,BJP,110790,51.96,28630,Flipped,AITC → BJP,5.98,21152
+265,Memari,Purba Bardhaman,Madhusudan Bhattacharya,AITC,104851,47.92,23078,Manab Guha,BJP,106428,46.78,7106,Flipped,AITC → BJP,-1.14,-15972
+266,Bardhaman Uttar,Purba Bardhaman,Nisith Kumar Malik,AITC,111211,45.97,17268,Nisith Kumar Malik,AITC,112688,45.45,6460,Retained,AITC → AITC,-0.52,-10808
+267,Bhatar,Purba Bardhaman,Adhikari Mangobinda,AITC,108028,50.44,31741,Soumen Karfa,BJP,98820,46.03,6528,Flipped,AITC → BJP,-4.41,-25213
+268,Purbasthali Dakshin,Purba Bardhaman,Swapan Debnath,AITC,105698,49.08,17410,Pran Krishna Tapadar,BJP,111004,50.44,16662,Flipped,AITC → BJP,1.36,-748
+269,Purbasthali Uttar,Purba Bardhaman,Tapan Chatterjee,AITC,92421,43.52,6706,Gopal Chattopadhyay,BJP,111379,49.53,30226,Flipped,AITC → BJP,6.01,23520
+270,Katwa,Purba Bardhaman,Rabindranath Chatterjee,AITC,107894,48.07,9155,Krishna Ghosh,BJP,122020,50.94,35066,Flipped,AITC → BJP,2.87,25911
+271,Ketugram,Purba Bardhaman,Sekh Sahonawez,AITC,100226,46.55,12683,Anadi Ghosh,BJP,111104,50.69,27610,Flipped,AITC → BJP,4.14,14927
+272,Mangalkot,Purba Bardhaman,Apurba Chowdhury (Achal),AITC,107596,49.51,22337,Shishir Ghosh,BJP,104020,47.44,12723,Flipped,AITC → BJP,-2.07,-9614
+273,Ausgram,Purba Bardhaman,Abhedananda Thander,AITC,100392,46.25,11815,Kalita Maji,BJP,107692,47.68,12535,Flipped,AITC → BJP,1.43,720
+274,Galsi,Purba Bardhaman,Nepal Ghorui,AITC,109504,49.21,19262,Raju Patra,BJP,110640,47.62,10494,Flipped,AITC → BJP,-1.59,-8768
+275,Pandabeswar,Paschim Bardhaman,Narendranath Chakraborty,AITC,73922,44.99,3803,Jitendra Tiwari,BJP,80501,46.08,1398,Flipped,AITC → BJP,1.09,-2405
+276,Durgapur Purba,Paschim Bardhaman,Pradip Mazumdar,AITC,79303,41.16,3746,Chandra Sekhar Banerjee,BJP,108888,50.69,30934,Flipped,AITC → BJP,9.53,27188
+277,Durgapur Paschim,Paschim Bardhaman,Lakshman Chandra Ghorui,BJP,91186,46.31,14664,Lakshman Chandra Ghorui,BJP,114729,52.93,37598,Retained,BJP → BJP,6.62,22934
+278,Raniganj,Paschim Bardhaman,Tapas Banerjee,AITC,78164,42.9,3556,Partha Ghosh,BJP,97416,49.58,17786,Flipped,AITC → BJP,6.68,14230
+279,Jamuria,Paschim Bardhaman,Hareram Singh,AITC,71002,42.59,8051,Bijan Mukherjee,BJP,90150,49.64,22514,Flipped,AITC → BJP,7.05,14463
+280,Asansol Dakshin,Paschim Bardhaman,Agnimitra Paul,BJP,87881,45.13,4487,Agnimitra Paul,BJP,119582,55.42,40839,Retained,BJP → BJP,10.29,36352
+281,Asansol Uttar,Paschim Bardhaman,Ghatak Moloy,AITC,100931,52.32,21110,Krishnendu Mukherjee,BJP,104516,49.63,11615,Flipped,AITC → BJP,-2.69,-9495
+282,Kulti,Paschim Bardhaman,Ajay Kumar Poddar,BJP,81112,46.41,679,Ajay Kumar Poddar,BJP,103570,54.44,26498,Retained,BJP → BJP,8.03,25819
+283,Barabani,Paschim Bardhaman,Bidhan Upadhyay,AITC,88430,52.26,23457,Arijit Roy,BJP,91777,49.54,11722,Flipped,AITC → BJP,-2.72,-11735
+284,Dubrajpur,Birbhum,Anup Kumar Saha,BJP,98083,47.94,3863,Anup Kumar Saha,BJP,117437,53.33,27647,Retained,BJP → BJP,5.39,23784
+285,Suri,Birbhum,Bikash Roychoudhury,AITC,105871,48.43,7320,Jagannath Chattopadhyay,BJP,124243,52.09,28686,Flipped,AITC → BJP,3.66,21366
+286,Bolpur,Birbhum,Sinha Chandranath,AITC,116443,50.57,22280,Chandranath Sinha,AITC,114915,46.65,13188,Retained,AITC → AITC,-3.92,-9092
+287,Nanoor,Birbhum,Bidhan Chandra Majhi,AITC,112116,47.64,6670,Bidhan Chandra Majhi,AITC,119910,47.37,8122,Retained,AITC → AITC,-0.27,1452
+288,Labpur,Birbhum,Abhijit Sinha (Rana),AITC,108423,51.14,17975,Debasis Ojha,BJP,106402,47.71,3550,Flipped,AITC → BJP,-3.43,-14425
+289,Sainthia,Birbhum,Nilabati Saha,AITC,110572,49.84,15243,Krishna Kanta Saha,BJP,115054,47.71,10306,Flipped,AITC → BJP,-2.13,-4937
+290,Mayureswar,Birbhum,Abhijit Roy,AITC,100425,50.36,12075,Dudh Kumar Mondal,BJP,107056,50.15,21002,Flipped,AITC → BJP,-0.21,8927
+291,Rampurhat,Birbhum,Asish Banerjee,AITC,103276,47.52,8472,Dhruba Saha,BJP,111920,47.89,24233,Flipped,AITC → BJP,0.37,15761
+292,Hansan,Birbhum,Dr. Asok Kumar Chattopadhyay,AITC,108289,51.42,50613,Fayezul Haque,AITC,103223,45.56,28298,Retained,AITC → AITC,-5.86,-22315
+293,Nalhati,Birbhum,Rajendra Prasad Singh (Raju Singh),AITC,117438,56.54,56905,Rajendra Prasad Singh,AITC,87744,39.43,13446,Retained,AITC → AITC,-17.11,-43459
+294,Murarai,Birbhum,Dr. Mosarraf Hossain,AITC,146496,67.23,98246,Mosarraf Hossain,AITC,96902,39.89,37705,Retained,AITC → AITC,-27.34,-60541
